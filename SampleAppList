@@ -25,9 +25,9 @@
     "name": "Flex1",
     "supportowner":[
                     {"Bob"}
-                    {"Janice"
+                    {"Janice"}
                     {"Karen"}
-                    ],
+                   ],
     "serviceowner": "fred",
     "code": 700
   }
