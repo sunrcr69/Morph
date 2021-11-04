@@ -23,7 +23,11 @@
   {
     "id": 4,
     "name": "Flex",
-    "supportowner": "Bob",
+    "supportowner":[
+                    {"Bob"}
+                    {"Janice"
+                    {"Karen"}
+                    ],
     "serviceowner": "fred",
     "code": 700
   }
