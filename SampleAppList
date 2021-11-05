@@ -1,29 +1,189 @@
-[{
-		"id": 1,
-		"name": "Atlas",
-		"supportowner": "Bret",
-		"serviceowner": "Claire",
-		"code": 455
-	},
-	{
-		"id": 2,
-		"name": "Axis",
-		"supportowner": "Pete",
-		"serviceowner": "Vicki",
-		"code": 442
-	},
-	{
-		"id": 3,
-		"name": "Orion",
-		"supportowner": "Alex",
-		"serviceowner": "Trudy",
-		"code": 568
-	},
-	{
-		"id": 4,
-		"name": "Flex1",
-		"supportowner": "Bob",
-		"serviceowner": "fred",
-		"code": 700
-	}
+[
+ {
+   "ID": 1,
+   "Primary Application": "Aardvark - CA",
+   "VM folder Tier": "Tier_2",
+   "Application Service Tier": "Tier 2",
+   "Server Owner": "ARTA KOGAN",
+   "GBU": "GBU - Communication Services",
+   "CRAM Info Owner": "Dave Brown",
+   "CRAM Custodian": "Arta Kogan",
+   "Support Owner": "ARTA KOGAN"
+ },
+ {
+   "ID": 2,
+   "Primary Application": "Aardvark - US",
+   "VM folder Tier": "Tier_2",
+   "Application Service Tier": "Tier 2",
+   "Server Owner": "ARTA KOGAN",
+   "GBU": "GBU - Communication Services",
+   "CRAM Info Owner": "James Johnson",
+   "CRAM Custodian": "Arta Kogan",
+   "Support Owner": "ARTA KOGAN"
+ },
+ {
+   "ID": 3,
+   "Primary Application": "ABBYY",
+   "VM folder Tier": "Tier_5",
+   "Application Service Tier": "Tier 5",
+   "Server Owner": "George Foltak",
+   "GBU": "GBU - Communication Services",
+   "CRAM Info Owner": "",
+   "CRAM Custodian": "",
+   "Support Owner": "George Foltak"
+ },
+ {
+   "ID": 4,
+   "Primary Application": "Able Batch Converter v1.8",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "",
+   "CRAM Custodian": "",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 5,
+   "Primary Application": "Accelus",
+   "VM folder Tier": "Tier_5",
+   "Application Service Tier": "Tier 5",
+   "Server Owner": "Mark Fitzgibbon",
+   "GBU": "GIS",
+   "CRAM Info Owner": "Mark Fitzgibbon",
+   "CRAM Custodian": "Carrie Maclellan",
+   "Support Owner": "Tim Newman"
+ },
+ {
+   "ID": 6,
+   "Primary Application": "Accurate - NA",
+   "VM folder Tier": "Tier_2",
+   "Application Service Tier": "Tier 2",
+   "Server Owner": "SAM ROBERTSON",
+   "GBU": "GBU - Shared Services",
+   "CRAM Info Owner": "Olga Syrmalis",
+   "CRAM Custodian": "Rowan Abbott",
+   "Support Owner": "Rik Nelson"
+ },
+ {
+   "ID": 7,
+   "Primary Application": "ACE10-6500-K9",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "",
+   "CRAM Custodian": "",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 8,
+   "Primary Application": "Acorns Dynamic Client Proxy",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "",
+   "CRAM Custodian": "",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 9,
+   "Primary Application": "Acrobat Reader DC (CRT)",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "",
+   "CRAM Custodian": "",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 10,
+   "Primary Application": "Acrobat XI Standard",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "",
+   "CRAM Custodian": "",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 11,
+   "Primary Application": "ACS 1120",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "",
+   "CRAM Custodian": "",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 12,
+   "Primary Application": "ACS16",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "",
+   "CRAM Custodian": "",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 13,
+   "Primary Application": "ACS32",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "",
+   "CRAM Custodian": "",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 14,
+   "Primary Application": "ACS4",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "Victoria Diaz",
+   "CRAM Custodian": "Julie Kelly-Young",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 15,
+   "Primary Application": "ACS48",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "Victoria Diaz",
+   "CRAM Custodian": "Julie Kelly-Young",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 16,
+   "Primary Application": "ACS6000",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "Victoria Diaz",
+   "CRAM Custodian": "Julie Kelly-Young",
+   "Support Owner": "STEPHEN KENNEDY"
+ },
+ {
+   "ID": 17,
+   "Primary Application": "ACS6004",
+   "VM folder Tier": "Tier_1",
+   "Application Service Tier": "Tier 1",
+   "Server Owner": "STEPHEN KENNEDY",
+   "GBU": "GBU - Plans",
+   "CRAM Info Owner": "Victoria Diaz",
+   "CRAM Custodian": "Julie Kelly-Young",
+   "Support Owner": "STEPHEN KENNEDY"
+ }
 ]
