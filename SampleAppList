@@ -1,7 +1,7 @@
 [
  {
    "ID": 1,
-   "Primary Application": "Aardvark - CA",
+   "name": "Aardvark - CA",
    "VM folder Tier": "Tier_2",
    "Application Service Tier": "Tier 2",
    "Server Owner": "ARTA KOGAN",
@@ -12,7 +12,7 @@
  },
  {
    "ID": 2,
-   "Primary Application": "Aardvark - US",
+   "name": "Aardvark - US",
    "VM folder Tier": "Tier_2",
    "Application Service Tier": "Tier 2",
    "Server Owner": "ARTA KOGAN",
@@ -23,7 +23,7 @@
  },
  {
    "ID": 3,
-   "Primary Application": "ABBYY",
+   "name": "ABBYY",
    "VM folder Tier": "Tier_5",
    "Application Service Tier": "Tier 5",
    "Server Owner": "George Foltak",
@@ -34,7 +34,7 @@
  },
  {
    "ID": 4,
-   "Primary Application": "Able Batch Converter v1.8",
+   "name": "Able Batch Converter v1.8",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -45,7 +45,7 @@
  },
  {
    "ID": 5,
-   "Primary Application": "Accelus",
+   "name": "Accelus",
    "VM folder Tier": "Tier_5",
    "Application Service Tier": "Tier 5",
    "Server Owner": "Mark Fitzgibbon",
@@ -56,7 +56,7 @@
  },
  {
    "ID": 6,
-   "Primary Application": "Accurate - NA",
+   "name": "Accurate - NA",
    "VM folder Tier": "Tier_2",
    "Application Service Tier": "Tier 2",
    "Server Owner": "SAM ROBERTSON",
@@ -67,7 +67,7 @@
  },
  {
    "ID": 7,
-   "Primary Application": "ACE10-6500-K9",
+   "name": "ACE10-6500-K9",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -78,7 +78,7 @@
  },
  {
    "ID": 8,
-   "Primary Application": "Acorns Dynamic Client Proxy",
+   "name": "Acorns Dynamic Client Proxy",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -89,7 +89,7 @@
  },
  {
    "ID": 9,
-   "Primary Application": "Acrobat Reader DC (CRT)",
+   "name": "Acrobat Reader DC (CRT)",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -100,7 +100,7 @@
  },
  {
    "ID": 10,
-   "Primary Application": "Acrobat XI Standard",
+   "name": "Acrobat XI Standard",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -111,7 +111,7 @@
  },
  {
    "ID": 11,
-   "Primary Application": "ACS 1120",
+   "name": "ACS 1120",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -122,7 +122,7 @@
  },
  {
    "ID": 12,
-   "Primary Application": "ACS16",
+   "name": "ACS16",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -133,7 +133,7 @@
  },
  {
    "ID": 13,
-   "Primary Application": "ACS32",
+   "name": "ACS32",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -144,7 +144,7 @@
  },
  {
    "ID": 14,
-   "Primary Application": "ACS4",
+   "name": "ACS4",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -155,7 +155,7 @@
  },
  {
    "ID": 15,
-   "Primary Application": "ACS48",
+   "name": "ACS48",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -166,7 +166,7 @@
  },
  {
    "ID": 16,
-   "Primary Application": "ACS6000",
+   "name": "ACS6000",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
@@ -177,7 +177,7 @@
  },
  {
    "ID": 17,
-   "Primary Application": "ACS6004",
+   "name": "ACS6004",
    "VM folder Tier": "Tier_1",
    "Application Service Tier": "Tier 1",
    "Server Owner": "STEPHEN KENNEDY",
