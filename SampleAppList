@@ -1,33 +1,29 @@
-[
-  {
-    "id": 1,
-    "name": "Atlas",
-    "supportowner": "Bret",
-    "serviceowner": "Claire",
-    "code": 455
-  },
-  {
-    "id": 2,
-    "name": "Axis",
-    "supportowner": "Pete",
-    "serviceowner": "Vicki",
-    "code": 442
-  },
-  {
-    "id": 3,
-    "name": "Orion",
-    "supportowner": "Alex",
-    "serviceowner": "Trudy",
-    "code": 568
-  },
-  {
-    "id": 4,
-    "name": "Flex1",
-    "supportowner":[ "Bob"
-                    "Janice"
-                    "Karen"
-                   ],
-    "serviceowner": "fred",
-    "code": 700
-  }
+[{
+		"id": 1,
+		"name": "Atlas",
+		"supportowner": "Bret",
+		"serviceowner": "Claire",
+		"code": 455
+	},
+	{
+		"id": 2,
+		"name": "Axis",
+		"supportowner": "Pete",
+		"serviceowner": "Vicki",
+		"code": 442
+	},
+	{
+		"id": 3,
+		"name": "Orion",
+		"supportowner": "Alex",
+		"serviceowner": "Trudy",
+		"code": 568
+	},
+	{
+		"id": 4,
+		"name": "Flex1",
+		"supportowner": ["Bob", "Janice", "Karen"],
+		"serviceowner": "fred",
+		"code": 700
+	}
 ]
