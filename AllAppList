@@ -6230,16 +6230,6 @@
    "SupportOwner": null
  },
  {
-   "ID": 643,
-   "name": "Zerto Virtual Replication Appliances (Z-VRA)",
-   "ApplicationServiceTier": "Tier 4",
-   "ServerOwner": "Keith Grissom",
-   "GBU": "GBU - Technical Services",
-   "CRAMInfoOwner": null,
-   "CRAMCustodian": null,
-   "SupportOwner": null
- },
- {
    "ID": 644,
    "name": "Zscaler",
    "ApplicationServiceTier": "Tier 3",
