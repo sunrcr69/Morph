@@ -160,16 +160,6 @@
    "SupportOwner": "STEPHEN KENNEDY"
  },
  {
-   "ID": 17,
-   "name": "ACS6000",
-   "ApplicationServiceTier": "Tier 1",
-   "ServerOwner": "STEPHEN KENNEDY",
-   "GBU": "GBU - Plans",
-   "CRAMInfoOwner": "Victoria Diaz",
-   "CRAMCustodian": "Julie Kelly-Young",
-   "SupportOwner": "STEPHEN KENNEDY"
- },
- {
    "ID": 18,
    "name": "ACS6004",
    "ApplicationServiceTier": "Tier 1",
