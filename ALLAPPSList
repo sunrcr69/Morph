@@ -6228,15 +6228,5 @@
    "CRAMInfoOwner": "Stephen Kelly (CTS)",
    "CRAMCustodian": "Richard Young",
    "SupportOwner": "Richard Young"
- },
- {
-   "ID": null,
-   "name": "",
-   "ApplicationServiceTier": "",
-   "ServerOwner": "",
-   "GBU": "",
-   "CRAMInfoOwner": "",
-   "CRAMCustodian": "",
-   "SupportOwner": ""
  }
 ]
