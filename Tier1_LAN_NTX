@@ -1,0 +1,22 @@
+[
+ {
+   "Env": "PROD-P",
+   "listvmwareFolderId": "group-v5705",
+   "listtaskSetId": 31
+ },
+ {
+   "Env": "PROD-F",
+   "listvmwareFolderId": "group-v6069",
+   "listtaskSetId": 33
+ },
+ {
+   "Env": "UAT-P",
+   "listvmwareFolderId": "group-v840326",
+   "listtaskSetId": 37
+ },
+ {
+   "Env": "UAT-F",
+   "listvmwareFolderId": "group-v6069",
+   "listtaskSetId": 31
+ }
+]
